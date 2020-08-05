@@ -29,13 +29,14 @@
 
 html,
 body{
-height:10vh ;
+height:100vh ;
+ 
 }
 
 body{
      background: var(--color-background);
      display: flex;
-     align-items: center;
+     align-items: center  ;
      justify-content: center;
 }
 
